@@ -15,4 +15,4 @@ Always learning, building, and exploring cybersecurity.
 ## GitHub Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elouzi-art&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![GitHub Stats](https://TON-INSTANCE/api?username=Elouzi-art&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
