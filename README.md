@@ -1,11 +1,17 @@
 # Hi, I'm Salmane Elouzi 👋
 
-🔐 Passionate about IT Security & Cybersecurity  
+🔐 IT Security & Cybersecurity  
 💻 C / C++  
-🤖 AI Security  
 🦠 Malware Analysis  
 🐧 Linux  
 🌐 Network Security  
+🤖 AI Security  
 🌱 Open Source
 
 Always learning, building, and exploring cybersecurity.
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elouzi-art&show_icons=true&theme=github_dark&hide_border=true)
