@@ -1,15 +1,15 @@
-<!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=200&section=header&text=Salmane%20Elouzi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Reverse%20Engineering%20%7C%20Malware%20Analysis&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/Elouzi-art/Elouzi-art/main/assets/cinematic.svg" alt="Cinématique - Salmane Elouzi" width="100%"/>
 
 <a href="https://github.com/Elouzi-art">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=Ingénieur+en+sécurité+informatique+🔐;Étudiant+à+la+FST+Marrakech+🎓;Joueur+TryHackMe+%26+Crackme+solver+🧩;Malware+analysis+avec+FLARE+VM+🦠;CI%2FCD+%26+Agile+sur+GitLab+⚙️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=750&lines=Ingénieur+en+sécurité+informatique+🔐;Étudiant+à+la+FST+Marrakech+🎓;Malware+analysis+%26+Reverse+Engineering+🦠;Joueur+TryHackMe+%26+Crackme+solver+🧩;Legit-Lab+disponible+sur+Docker+Hub+🐳" alt="Typing SVG" />
 </a>
 
 <p>
   <a href="#-projet-phare"><img src="https://img.shields.io/badge/Projet%20phare-ff4d4d?style=for-the-badge&logo=openai&logoColor=white"/></a>
-  <a href="#-projets-en-vitrine"><img src="https://img.shields.io/badge/Projets-238636?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#-legit-lab"><img src="https://img.shields.io/badge/Legit--Lab-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+  <a href="#-formations--parcours"><img src="https://img.shields.io/badge/Parcours-238636?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="#-labo--entraînement"><img src="https://img.shields.io/badge/Labo-8957e5?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
   <a href="#-get-in-touch"><img src="https://img.shields.io/badge/Contact-d29922?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
 </p>
@@ -25,14 +25,16 @@
 ```python
 class SalmaneElouzi:
     role      = "Ingénieur en sécurité informatique"
+    school    = "FST Marrakech"
     focus     = ["Cybersécurité", "Reverse Engineering", "Malware analysis", "Réseau", "Embarqué"]
     langages  = ["C", "C++", "Bash", "Python", "PowerShell"]
     lab       = ["FLARE VM", "TryHackMe", "Crackmes"]
-    devops    = ["GitLab CI/CD", "Agile"]
+    devops    = ["GitLab CI/CD", "Agile", "Docker"]
     mission   = "Créer des outils et projets pédagogiques pour apprendre la sécu"
 ```
 
-- 🔭 Je travaille sur mon projet phare : **CyberAI Command Center**
+- 🔭 Je travaille sur **CyberAI Command Center** (projet phare)
+- 🐳 J'ai publié **Legit-Lab**, un outil d'analyse d'URL et de PDF disponible sur Docker Hub
 - 🌱 J'apprends : analyse de malware, reverse engineering, sécurité embarquée, red-teaming spatial
 - ⚙️ Je me forme aux méthodes **Agile** et aux **pipelines CI/CD** sur GitLab
 - 🤝 Ouvert aux collaborations open-source, tutorats et contributions académiques
@@ -50,16 +52,51 @@ class SalmaneElouzi:
 
 </div>
 
-Mon plus gros projet à ce jour : un **centre de commande** qui rassemble IA et outils de cybersécurité au même endroit.
-Il est en développement actif, donc les idées et retours sont les bienvenus.
+Mon plus gros projet à ce jour : un **centre de commande** qui rassemble IA et outils de cybersécurité au même endroit. Il est en développement actif, donc les idées et retours sont les bienvenus.
 
-> - 🧠 *Assistant IA pour l'analyse et la triage*
+> ✏️ Remplace ces lignes par les vraies fonctionnalités du projet :
+> - 🧠 *Assistant IA pour l'analyse et le triage*
 > - 📊 *Dashboard centralisé*
-> - 🔌 *Intégration d'outils de sécu*
+> - 🔌 *Intégration d'outils de sécurité*
 
 ---
 
-## 🚀 Projets en vitrine
+## 🐳 Legit-Lab
+
+<div align="center">
+
+### 🔎 [Legit-Lab : analyse rapide d'URL et de PDF](https://github.com/Elouzi-art/legit-lab)
+
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-elouzi09%2Flegit--lab-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/elouzi09/legit-lab)
+![Docker Pulls](https://img.shields.io/docker/pulls/elouzi09/legit-lab?style=for-the-badge&logo=docker&color=2496ED)
+![Docker Image Size](https://img.shields.io/docker/image-size/elouzi09/legit-lab/latest?style=for-the-badge&logo=docker&color=2496ED)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+</div>
+
+Outil open-source de triage de sécurité qui analyse des **URLs suspectes** et des **documents PDF** avec plusieurs couches de détection indépendantes.
+
+| Couche | Rôle |
+|---|---|
+| 🔍 Heuristiques statiques | Typosquatting, IP brutes, TLD inhabituels, homographes, JavaScript et actions automatiques dans les PDF |
+| 🌐 Threat Intelligence | VirusTotal, URLhaus, Google Safe Browsing (optionnel) |
+| 🤖 Machine Learning | Score de risque phishing par régression logistique (expérimental) |
+| 📝 Rapports IA | Gemini ou DeepSeek, avec rapport par défaut si aucune clé API |
+| 🌍 Multilingue | Français · English · العربية |
+
+**Lancer en 2 commandes :**
+
+```bash
+docker pull elouzi09/legit-lab:latest
+docker run --rm -p 5000:5000 elouzi09/legit-lab:latest
+```
+
+Puis ouvrir [http://localhost:5000](http://localhost:5000). Aucune clé API n'est nécessaire pour les analyses de base.
+
+---
+
+## 🚀 Autres projets
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
@@ -70,25 +107,42 @@ Il est en développement actif, donc les idées et retours sont les bienvenus.
 
 ---
 
-## 🧪 Labo & entraînement
+## 🎓 Formations & parcours
 
-### 🎯 TryHackMe
+<!-- ✏️ Remplis ce tableau avec TES vraies formations et dates. Ne garde que ce qui est exact. -->
 
 <div align="center">
 
-<a href="https://tryhackme.com/p/SOLIDux">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/TON_PSEUDO.png" alt="TryHackMe badge" />
-</a>
+| Formation | Statut |
+|---|---|
+| FST Marrakech : cursus en sécurité informatique | **En cours** |
+| TryHackMe : parcours offensifs et défensifs | **En cours** |
+| FLARE VM : laboratoire d'analyse de malware | **En pratique** |
+| GitLab : Agile et pipelines CI/CD | **En apprentissage** |
+| *Ajoute ici ta certification (ex. Security+, PMRP…)* | **Mois AAAA** |
 
 </div>
 
-Je pratique régulièrement sur TryHackMe : parcours offensifs et défensifs, rooms thématiques et CTF.
+### 🏅 Badges & réalisations
+
+<!-- ✏️ Dépose ton image de badges dans assets/badges.png (collage comme sur ton exemple), puis décommente : -->
+<!-- <div align="center"><img src="https://raw.githubusercontent.com/Elouzi-art/Elouzi-art/main/assets/badges.png" width="100%"/></div> -->
+
+<div align="center">
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/SOLIDux.png)](https://tryhackme.com/p/SOLIDux)
+
+</div>
+
+---
+
+## 🧪 Labo & entraînement
 
 ### 🧩 Crackmes & Reverse Engineering
 
 - Résolution de challenges **crackme** (analyse statique et dynamique, patching, keygen)
 - Outils : `Ghidra` · `x64dbg` · `IDA Free` · `GDB` · `Radare2`
-- 📝 *Mes write-ups seront publiés dans un dépôt dédié* → `crackme-writeups` (à créer)
+- 📝 Write-ups à venir dans un dépôt dédié : `crackme-writeups`
 
 ### 🦠 Malware Analysis avec FLARE VM
 
@@ -103,10 +157,9 @@ Je pratique régulièrement sur TryHackMe : parcours offensifs et défensifs, ro
 
 <a href="https://gitlab.com/s.elouzi0010"><img src="https://img.shields.io/badge/GitLab-s.elouzi0010-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 
-Je me forme en parallèle à la démarche DevOps :
 - 🔁 Pipelines **CI/CD** (`.gitlab-ci.yml` : build, test, scan de sécurité, déploiement)
 - 📋 Méthodes **Agile** (sprints, backlog, issues, boards, merge requests)
-- 🛡️ Intégration progressive du **DevSecOps** (SAST, scan de dépendances)
+- 🛡️ **DevSecOps** progressif (SAST, scan de dépendances)
 
 ---
 
@@ -114,7 +167,7 @@ Je me forme en parallèle à la démarche DevOps :
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,bash,powershell,php,laravel,mysql,linux,kali,git,github,gitlab,docker,arduino&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,py,bash,powershell,php,laravel,flask,mysql,linux,kali,git,github,gitlab,docker,arduino&theme=dark" />
 
 </div>
 
@@ -139,7 +192,7 @@ Je me forme en parallèle à la démarche DevOps :
 
 - 🛡️ Projets open-source en sécurité embarquée, IA appliquée à la cybersécurité et outils pédagogiques
 - 🏁 Contribuer à des CTFs et plateformes d'entraînement
-- 👥 Retours et contributeurs pour **CyberAI Command Center**
+- 👥 Retours et contributeurs pour **CyberAI Command Center** et **Legit-Lab**
 - 📚 Partager mes connaissances via des guides, des write-ups et du tutorat
 
 ---
@@ -151,9 +204,10 @@ Je me forme en parallèle à la démarche DevOps :
 <a href="mailto:4un78kmp9@mozmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Elouzi-art"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://gitlab.com/s.elouzi0010"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
-<a href="https://tryhackme.com/p/TON_PSEUDO"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+<a href="https://hub.docker.com/r/elouzi09/legit-lab"><img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+<a href="https://tryhackme.com/p/SOLIDux"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
 
-*Une idée, un bug, une collab ? Ouvre une issue ou une PR, je réponds toujours !* 🚀
+*Une idée, un bug, une collab ? Ouvre une issue ou une PR !* 🚀
 
 </div>
 
