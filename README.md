@@ -88,14 +88,20 @@ Then open [http://localhost:5000](http://localhost:5000). No API key is needed f
 
 ---
 
-## 🚀 More projects
+## 🚀 My projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| 🔎 [**Legit-Lab**](https://github.com/Elouzi-art/legit-lab) | URL and PDF security analysis tool, published on [Docker Hub](https://hub.docker.com/r/elouzi09/legit-lab) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
 | 🧭 [**Cyberboard**](https://github.com/Elouzi-art/Cyberboard) | Personal mission control for security students | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
-| 🛰️ [**FlatSat**](https://github.com/Elouzi-art/FlatSat) | Hardware and firmware learning platform for space red teaming | ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![Embedded](https://img.shields.io/badge/-Embedded-orange) |
 | 📱 [**OnePlus-7T-HD1903-public**](https://github.com/Elouzi-art/OnePlus-7T-HD1903-public) | Complete Magisk and NetHunter guide | ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white) ![Kali](https://img.shields.io/badge/-NetHunter-557C94?logo=kalilinux&logoColor=white) |
 | 🎮 [**The-Ride-2D**](https://github.com/Elouzi-art/The-Ride-2D) | 2D game in C++ with SDL2 | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![SDL2](https://img.shields.io/badge/-SDL2-blue) |
+
+## 🤝 Open-source contributions
+
+| Project | What I'm doing | Stack |
+|--------|-------------|-------|
+| 🛰️ [**FlatSat**](https://github.com/Elouzi-art/FlatSat) | Working on my fork of a hardware and firmware learning platform for space red teaming, with the goal of contributing firmware patches back to the project | ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![Embedded](https://img.shields.io/badge/-Embedded-orange) ![Status](https://img.shields.io/badge/-Contributing-238636) 
 
 ---
 
