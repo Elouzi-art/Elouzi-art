@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Elouzi-art/assets/main/cinematic.svg" alt="Salmane Elouzi" width="100%"/>
 
 <a href="https://github.com/Elouzi-art">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Cybersecurity+engineering+student;WWW;Defensive+security+%26+threat+detection;Malware+analysis+%26+reverse+engineering;TryHackMe+player+%26+crackme+solver;Legit-Lab+on+Docker+Hub" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Cybersecurity+engineering+student;Studying+in+the+WWW+(self-taught);Defensive+security+%26+threat+detection;Malware+analysis+%26+reverse+engineering;TryHackMe+player+%26+crackme+solver;Legit-Lab+on+Docker+Hub" alt="Typing SVG" />
 </a>
 
 <p>
@@ -23,7 +23,7 @@
 ```python
 class SalmaneElouzi:
     role      = "Information security engineer"
-    school    = "WWW"
+    school    = "WWW (self-taught)"
     focus     = ["Cybersecurity", "Reverse engineering", "Malware analysis", "Networking", "Embedded"]
     languages = ["C", "C++", "Bash", "Python", "PowerShell"]
     lab       = ["FLARE VM", "TryHackMe", "Crackmes"]
