@@ -1,25 +1,21 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Elouzi-art/assets/main/cinematic.svg" alt="Salmane Elouzi" width="100%"/>
-
-<a href="https://github.com/Elouzi-art">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=750&lines=Cybersecurity+engineering+student+🔐;FST+Marrakech+🎓;Malware+analysis+%26+reverse+engineering+🦠;TryHackMe+player+%26+crackme+solver+🧩;Legit-Lab+on+Docker+Hub+🐳" alt="Typing SVG" />
-</a>
+<img src="https://raw.githubusercontent.com/Elouzi-art/assets/main/cinematic-red.svg" alt="Salmane Elouzi" width="100%"/>
 
 <p>
-  <a href="#-featured-project"><img src="https://img.shields.io/badge/Featured-ff4d4d?style=for-the-badge&logo=openai&logoColor=white"/></a>
-  <a href="#-legit-lab"><img src="https://img.shields.io/badge/Legit--Lab-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-  <a href="#-training--path"><img src="https://img.shields.io/badge/Training-238636?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#-lab--practice"><img src="https://img.shields.io/badge/Lab-8957e5?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
-  <a href="#-get-in-touch"><img src="https://img.shields.io/badge/Contact-d29922?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
+  <a href="#featured-project">Featured</a> &nbsp;|&nbsp;
+  <a href="#legit-lab">Legit-Lab</a> &nbsp;|&nbsp;
+  <a href="#projects">Projects</a> &nbsp;|&nbsp;
+  <a href="#training">Training</a> &nbsp;|&nbsp;
+  <a href="#lab">Lab</a> &nbsp;|&nbsp;
+  <a href="#get-in-touch">Contact</a>
 </p>
-
 
 </div>
 
 ---
 
-## 👋 About
+## About
 
 ```python
 class SalmaneElouzi:
@@ -32,42 +28,31 @@ class SalmaneElouzi:
     mission   = "Build tools and learning projects that make security easier to learn"
 ```
 
-- 🔭 Currently building **CyberAI Command Center**
-- 🐳 Published **Legit-Lab**, a URL and PDF analysis tool available on Docker Hub
-- 🌱 Learning malware analysis, reverse engineering, embedded security and space red teaming
-- ⚙️ Practicing Agile methods and CI/CD pipelines on GitLab
-- 🤝 Open to open-source collaboration, tutoring and academic contributions
+- Currently building **CyberAI Command Center**
+- Published **Legit-Lab**, a URL and PDF analysis tool available on Docker Hub
+- Learning malware analysis, reverse engineering, embedded security and space red teaming
+- Practicing Agile methods and CI/CD pipelines on GitLab
+- Open to open-source collaboration, tutoring and academic contributions
 
 ---
 
-## ⭐ Featured project
+## Featured project
 
-<div align="center">
+### [CyberAI Command Center](https://github.com/Elouzi-art/cyberai-command-center)
 
-### 🤖 [CyberAI Command Center](https://github.com/Elouzi-art/cyberai-command-center)
-
-![Status](https://img.shields.io/badge/Status-In%20development-orange?style=for-the-badge)
-![Focus](https://img.shields.io/badge/AI-Cybersecurity-ff4d4d?style=for-the-badge)
-
-</div>
+![Status](https://img.shields.io/badge/Status-In%20development-ff2e2e?style=flat-square&labelColor=0a0a0a)
 
 My largest project so far: a command center that brings AI and security tooling together in one place. It is under active development, and feedback is welcome.
 
 ---
 
-## 🐳 Legit-Lab
+## Legit-Lab
 
-<div align="center">
+### [Fast URL and PDF security analysis](https://github.com/Elouzi-art/legit-lab)
 
-### 🔎 [Legit-Lab: fast URL and PDF security analysis](https://github.com/Elouzi-art/legit-lab)
-
-[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-elouzi09%2Flegit--lab-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/elouzi09/legit-lab)
-![Docker Pulls](https://img.shields.io/docker/pulls/elouzi09/legit-lab?style=for-the-badge&logo=docker&color=2496ED)
-![Image Size](https://img.shields.io/docker/image-size/elouzi09/legit-lab/latest?style=for-the-badge&logo=docker&color=2496ED)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-</div>
+[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-elouzi09%2Flegit--lab-ff2e2e?style=flat-square&logo=docker&logoColor=white&labelColor=0a0a0a)](https://hub.docker.com/r/elouzi09/legit-lab)
+![Pulls](https://img.shields.io/docker/pulls/elouzi09/legit-lab?style=flat-square&color=ff2e2e&labelColor=0a0a0a)
+![Size](https://img.shields.io/docker/image-size/elouzi09/legit-lab/latest?style=flat-square&color=ff2e2e&labelColor=0a0a0a)
 
 An open-source triage tool that analyzes suspicious URLs and PDF documents through several independent detection layers.
 
@@ -88,26 +73,24 @@ Then open [http://localhost:5000](http://localhost:5000). No API key is needed f
 
 ---
 
-## 🚀 My projects
+## Projects
 
 | Project | Description | Stack |
-|--------|-------------|-------|
-| 🔎 [**Legit-Lab**](https://github.com/Elouzi-art/legit-lab) | URL and PDF security analysis tool, published on [Docker Hub](https://hub.docker.com/r/elouzi09/legit-lab) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
-| 🧭 [**Cyberboard**](https://github.com/Elouzi-art/Cyberboard) | Personal mission control for security students | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
-| 📱 [**OnePlus-7T-HD1903-public**](https://github.com/Elouzi-art/OnePlus-7T-HD1903-public) | Complete Magisk and NetHunter guide | ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white) ![Kali](https://img.shields.io/badge/-NetHunter-557C94?logo=kalilinux&logoColor=white) |
-| 🎮 [**The-Ride-2D**](https://github.com/Elouzi-art/The-Ride-2D) | 2D game in C++ with SDL2 | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![SDL2](https://img.shields.io/badge/-SDL2-blue) |
+|---|---|---|
+| [**Legit-Lab**](https://github.com/Elouzi-art/legit-lab) | URL and PDF security analysis tool, published on [Docker Hub](https://hub.docker.com/r/elouzi09/legit-lab) | Python, Flask, Docker |
+| [**Cyberboard**](https://github.com/Elouzi-art/Cyberboard) | Personal mission control for security students | Laravel, MySQL |
+| [**OnePlus-7T-HD1903-public**](https://github.com/Elouzi-art/OnePlus-7T-HD1903-public) | Complete Magisk and NetHunter guide | Android, NetHunter |
+| [**The-Ride-2D**](https://github.com/Elouzi-art/The-Ride-2D) | 2D game in C++ with SDL2 | C++, SDL2 |
 
-## 🤝 Open-source contributions
+### Open-source contributions
 
 | Project | What I'm doing | Stack |
-|--------|-------------|-------|
-| 🛰️ [**FlatSat**](https://github.com/Elouzi-art/FlatSat) | Working on my fork of a hardware and firmware learning platform for space red teaming, with the goal of contributing firmware patches back to the project | ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![Embedded](https://img.shields.io/badge/-Embedded-orange) ![Status](https://img.shields.io/badge/-Contributing-238636) 
+|---|---|---|
+| [**FlatSat**](https://github.com/Elouzi-art/FlatSat) | Working on my fork of a hardware and firmware learning platform for space red teaming, with the goal of contributing firmware patches back to the project | C, Embedded |
 
 ---
 
-## 🎓 Training & path
-
-<div align="center">
+## Training
 
 | Training | Status |
 |---|---|
@@ -115,20 +98,18 @@ Then open [http://localhost:5000](http://localhost:5000). No API key is needed f
 | FLARE VM: malware analysis lab | **Ongoing practice** |
 | GitLab: Agile and CI/CD pipelines | **Learning** |
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/SOLIDux.png)](https://tryhackme.com/p/SOLIDux)
-
-</div>
+<a href="https://tryhackme.com/p/SOLIDux"><img src="https://tryhackme-badges.s3.amazonaws.com/SOLIDux.png" alt="TryHackMe" height="120"/></a>
 
 ---
 
-## 🧪 Lab & practice
+## Lab
 
-### 🧩 Crackmes and reverse engineering
+### Crackmes and reverse engineering
 
 - Solving crackme challenges: static and dynamic analysis, patching, keygens
 - Tools: `Ghidra` · `x64dbg` · `IDA Free` · `GDB` · `Radare2`
 
-### 🦠 Malware analysis with FLARE VM
+### Malware analysis with FLARE VM
 
 - Isolated lab built on **FLARE VM**
 - Static analysis: `PEStudio` · `Detect It Easy` · `CFF Explorer` · `FLOSS`
@@ -137,9 +118,9 @@ Then open [http://localhost:5000](http://localhost:5000). No API key is needed f
 
 > All analysis runs in an isolated environment with snapshots and a host-only network.
 
-### ⚙️ GitLab, Agile and CI/CD
+### GitLab, Agile and CI/CD
 
-<a href="https://gitlab.com/s.elouzi0010"><img src="https://img.shields.io/badge/GitLab-s.elouzi0010-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+Profile: [gitlab.com/s.elouzi0010](https://gitlab.com/s.elouzi0010)
 
 - CI/CD pipelines with `.gitlab-ci.yml`: build, test, security scan, deploy
 - Agile workflow: sprints, backlog, issues, boards, merge requests
@@ -147,32 +128,21 @@ Then open [http://localhost:5000](http://localhost:5000). No API key is needed f
 
 ---
 
-## 🛠️ Stack
+## Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,py,bash,powershell,php,laravel,flask,mysql,linux,kali,git,github,gitlab,docker,arduino&theme=dark" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,bash,powershell,php,laravel,flask,mysql,linux,kali,git,gitlab,docker&theme=dark" alt="Stack"/>
 
 **Areas:** `Malware Analysis` · `Reverse Engineering` · `Network Security` · `Embedded Security` · `CTF` · `Red Teaming` · `DevSecOps`
 
 ---
 
-## 📊 GitHub stats
+## GitHub stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Elouzi-art&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elouzi-art&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
-
-<img src="https://streak-stats.demolab.com?user=Elouzi-art&theme=github-dark-blue&hide_border=true&background=0d1117" />
-
-</div>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Elouzi-art&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ff2e2e&icon_color=ff2e2e&text_color=c9d1d9" alt="GitHub stats"/>
 
 ---
 
-## 🎯 Looking for
+## Looking for
 
 - Open-source work in embedded security, AI for cybersecurity and educational tooling
 - CTFs and training platforms to contribute to
@@ -181,16 +151,10 @@ Then open [http://localhost:5000](http://localhost:5000). No API key is needed f
 
 ---
 
-## 📫 Get in touch
+## Get in touch
 
-<div align="center">
-
-<a href="mailto:4un78kmp9@mozmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Elouzi-art"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://gitlab.com/s.elouzi0010"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
-<a href="https://hub.docker.com/r/elouzi09/legit-lab"><img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-<a href="https://tryhackme.com/p/SOLIDux"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=100&section=footer" width="100%"/>
+[Email](mailto:4un78kmp9@mozmail.com) &nbsp;|&nbsp;
+[GitHub](https://github.com/Elouzi-art) &nbsp;|&nbsp;
+[GitLab](https://gitlab.com/s.elouzi0010) &nbsp;|&nbsp;
+[Docker Hub](https://hub.docker.com/r/elouzi09/legit-lab) &nbsp;|&nbsp;
+[TryHackMe](https://tryhackme.com/p/SOLIDux)
