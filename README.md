@@ -1,19 +1,20 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Elouzi-art/assets/main/cinematic-red.svg" alt="Salmane Elouzi" width="100%"/>
-
+ 
+<img src="https://raw.githubusercontent.com/Elouzi-art/assets/main/cinematic.svg" alt="Salmane Elouzi" width="100%"/>
+ 
 <a href="https://github.com/Elouzi-art">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2E2E&center=true&vCenter=true&width=750&lines=Cybersecurity+engineering+student;Malware+analysis+%26+reverse+engineering;TryHackMe+player+%26+crackme+solver;Legit-Lab+on+Docker+Hub" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=750&lines=Cybersecurity+engineering+student+🔐;FST+Marrakech+🎓;Malware+analysis+%26+reverse+engineering+🦠;TryHackMe+player+%26+crackme+solver+🧩;Legit-Lab+on+Docker+Hub+🐳" alt="Typing SVG" />
 </a>
-
+ 
 <p>
-  <a href="#featured-project"><img src="https://img.shields.io/badge/Featured-ff2e2e?style=for-the-badge&labelColor=0a0a0a"/></a>
-  <a href="#legit-lab"><img src="https://img.shields.io/badge/Legit--Lab-c41e1e?style=for-the-badge&logo=docker&logoColor=white"/></a>
-  <a href="#training--path"><img src="https://img.shields.io/badge/Training-8f1111?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#lab--practice"><img src="https://img.shields.io/badge/Lab-5c0a0a?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
-  <a href="#get-in-touch"><img src="https://img.shields.io/badge/Contact-ff2e2e?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
+  <a href="#-featured-project"><img src="https://img.shields.io/badge/Featured-ff4d4d?style=for-the-badge&logo=openai&logoColor=white"/></a>
+  <a href="#-legit-lab"><img src="https://img.shields.io/badge/Legit--Lab-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+  <a href="#-training--path"><img src="https://img.shields.io/badge/Training-238636?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#-lab--practice"><img src="https://img.shields.io/badge/Lab-8957e5?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+  <a href="#-get-in-touch"><img src="https://img.shields.io/badge/Contact-d29922?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
 </p>
-
+ 
+ 
 </div>
 
 ---
