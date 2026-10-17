@@ -14,7 +14,6 @@
   <a href="#-get-in-touch"><img src="https://img.shields.io/badge/Contact-d29922?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Elouzi-art&label=Views&color=238636&style=flat-square" />
 
 </div>
 
@@ -106,7 +105,6 @@ Then open [http://localhost:5000](http://localhost:5000). No API key is needed f
 
 | Training | Status |
 |---|---|
-| FST Marrakech: information security | **In progress** |
 | TryHackMe: offensive and defensive paths | **In progress** |
 | FLARE VM: malware analysis lab | **Ongoing practice** |
 | GitLab: Agile and CI/CD pipelines | **Learning** |
