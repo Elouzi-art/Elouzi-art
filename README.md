@@ -53,7 +53,6 @@ class SalmaneElouzi:
 Mon plus gros projet à ce jour : un **centre de commande** qui rassemble IA et outils de cybersécurité au même endroit.
 Il est en développement actif, donc les idées et retours sont les bienvenus.
 
-> ✏️ Ajoute ici 3 à 4 fonctionnalités réelles du projet, par exemple :
 > - 🧠 *Assistant IA pour l'analyse et la triage*
 > - 📊 *Dashboard centralisé*
 > - 🔌 *Intégration d'outils de sécu*
