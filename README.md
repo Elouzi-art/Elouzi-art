@@ -20,22 +20,18 @@
 
 ## About
 
-```python
-class SalmaneElouzi:
-    role      = "Information security engineer"
-    school    = "WWW (self-taught)"
-    focus     = ["Cybersecurity", "Reverse engineering", "Malware analysis", "Networking", "Embedded"]
-    languages = ["C", "C++", "Bash", "Python", "PowerShell"]
-    lab       = ["FLARE VM", "TryHackMe", "Crackmes"]
-    devops    = ["GitLab CI/CD", "Agile", "Docker"]
-    mission   = "Build tools and learning projects that make security easier to learn"
-```
+**Information Security Engineer** — Cybersecurity engineering student (self-taught, WWW)
 
-- Currently building **CyberAI Command Center**
-- Published **Legit-Lab**, a URL and PDF analysis tool available on Docker Hub
-- Learning malware analysis, reverse engineering, embedded security and space red teaming
-- Practicing Agile methods and CI/CD pipelines on GitLab
-- Open to open-source collaboration, tutoring and academic contributions
+I enjoy building tools and learning projects that make security easier to learn, from reverse engineering and malware analysis to networking, embedded systems and DevSecOps pipelines.
+
+- 🎓 **Field:** Cybersecurity engineering (self-taught, WWW)
+- 🏆 **Achievements:** Published **Legit-Lab**, a URL and PDF analysis tool available on Docker Hub
+- 🎯 **Focus Areas:** Cybersecurity, Reverse Engineering, Malware Analysis, Networking, Embedded Security
+- 🧪 **Lab:** FLARE VM · TryHackMe · Crackmes
+- ⚙️ **DevOps:** GitLab CI/CD · Agile · Docker
+- 🔨 **Currently building:** CyberAI Command Center
+- 📚 **Currently learning:** Malware analysis, reverse engineering, embedded security and space red teaming
+- 📬 **Contact:** [4un78kmp9@mozmail.com](mailto:4un78kmp9@mozmail.com)
 
 ---
 
@@ -89,18 +85,78 @@ Then open [http://localhost:5000](http://localhost:5000). No API key is needed f
 
 ## My projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [**Legit-Lab**](https://github.com/Elouzi-art/legit-lab) | URL and PDF security analysis tool, published on [Docker Hub](https://hub.docker.com/r/elouzi09/legit-lab) | ![Python](https://img.shields.io/badge/-Python-2F81F7?logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-2F81F7?logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2F81F7?logo=docker&logoColor=white) |
-| [**Cyberboard**](https://github.com/Elouzi-art/Cyberboard) | Personal mission control for security students | ![Laravel](https://img.shields.io/badge/-Laravel-2F81F7?logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-2F81F7?logo=mysql&logoColor=white) |
-| [**OnePlus-7T-HD1903-public**](https://github.com/Elouzi-art/OnePlus-7T-HD1903-public) | Complete Magisk and NetHunter guide | ![Android](https://img.shields.io/badge/-Android-2F81F7?logo=android&logoColor=white) ![Kali](https://img.shields.io/badge/-NetHunter-2F81F7?logo=kalilinux&logoColor=white) |
-| [**The-Ride-2D**](https://github.com/Elouzi-art/The-Ride-2D) | 2D game in C++ with SDL2 | ![C++](https://img.shields.io/badge/-C%2B%2B-2F81F7?logo=cplusplus&logoColor=white) ![SDL2](https://img.shields.io/badge/-SDL2-2F81F7) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Elouzi-art/legit-lab">🛡️ Legit-Lab</a></h3>
+      <p>URL and PDF security analysis tool with static heuristics, threat intelligence, ML scoring and AI summaries. Published on <a href="https://hub.docker.com/r/elouzi09/legit-lab">Docker Hub</a>.</p>
+      <img src="https://img.shields.io/badge/-Python-2F81F7?logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/-Flask-2F81F7?logo=flask&logoColor=white" alt="Flask"/>
+      <img src="https://img.shields.io/badge/-Docker-2F81F7?logo=docker&logoColor=white" alt="Docker"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Elouzi-art/Cyberboard">📋 Cyberboard</a></h3>
+      <p>Personal mission control for security students, to organize learning and track progress.</p>
+      <img src="https://img.shields.io/badge/-Laravel-2F81F7?logo=laravel&logoColor=white" alt="Laravel"/>
+      <img src="https://img.shields.io/badge/-MySQL-2F81F7?logo=mysql&logoColor=white" alt="MySQL"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Elouzi-art/OnePlus-7T-HD1903-public">📱 OnePlus-7T-HD1903-public</a></h3>
+      <p>Complete Magisk and NetHunter guide for the OnePlus 7T.</p>
+      <img src="https://img.shields.io/badge/-Android-2F81F7?logo=android&logoColor=white" alt="Android"/>
+      <img src="https://img.shields.io/badge/-NetHunter-2F81F7?logo=kalilinux&logoColor=white" alt="NetHunter"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Elouzi-art/The-Ride-2D">🎮 The-Ride-2D</a></h3>
+      <p>2D game written in C++ with SDL2.</p>
+      <img src="https://img.shields.io/badge/-C%2B%2B-2F81F7?logo=cplusplus&logoColor=white" alt="C++"/>
+      <img src="https://img.shields.io/badge/-SDL2-2F81F7" alt="SDL2"/>
+    </td>
+  </tr>
+</table>
 
-## Open-source contributions
+### Open-source contributions
 
-| Project | What I'm doing | Stack |
-|---|---|---|
-| [**FlatSat**](https://github.com/Elouzi-art/FlatSat) | Working on my fork of a hardware and firmware learning platform for space red teaming, with the goal of contributing firmware patches back to the project | ![C](https://img.shields.io/badge/-C-2F81F7?logo=c&logoColor=white) ![Embedded](https://img.shields.io/badge/-Embedded-2F81F7) ![Status](https://img.shields.io/badge/-Contributing-2F81F7) |
+<table>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://github.com/Elouzi-art/FlatSat">🛰️ FlatSat</a></h3>
+      <p>Working on my fork of a hardware and firmware learning platform for space red teaming, with the goal of contributing firmware patches back to the project.</p>
+      <img src="https://img.shields.io/badge/-C-2F81F7?logo=c&logoColor=white" alt="C"/>
+      <img src="https://img.shields.io/badge/-Embedded-2F81F7" alt="Embedded"/>
+      <img src="https://img.shields.io/badge/-Contributing-2F81F7" alt="Contributing"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Skills
+
+**Languages**
+
+![C](https://img.shields.io/badge/-C-2F81F7?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-2F81F7?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-2F81F7?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-2F81F7?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-2F81F7?style=for-the-badge&logo=powershell&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-2F81F7?style=for-the-badge&logo=php&logoColor=white)
+
+**Security**
+
+- 🔍 Malware Analysis
+- 🧬 Reverse Engineering
+- 🌐 Network Security
+- 🛰️ Embedded Security
+- 🚩 CTF
+- 🔴 Red Teaming
+- 🛡️ DevSecOps
+
+**Tools and Platforms**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,py,bash,powershell,php,laravel,flask,mysql,linux,kali,git,github,gitlab,docker,arduino&theme=dark" alt="Technology stack"/>
 
 ---
 
@@ -146,18 +202,6 @@ Then open [http://localhost:5000](http://localhost:5000). No API key is needed f
 
 ---
 
-## Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,py,bash,powershell,php,laravel,flask,mysql,linux,kali,git,github,gitlab,docker,arduino&theme=dark" alt="Technology stack"/>
-
-</div>
-
-**Areas:** `Malware Analysis` · `Reverse Engineering` · `Network Security` · `Embedded Security` · `CTF` · `Red Teaming` · `DevSecOps`
-
----
-
 ## GitHub stats
 
 <div align="center">
@@ -176,14 +220,22 @@ Then open [http://localhost:5000](http://localhost:5000). No API key is needed f
 
 ## Looking for
 
-- Open-source work in embedded security, AI for cybersecurity and educational tooling
-- CTFs and training platforms to contribute to
-- Feedback and contributors for **CyberAI Command Center** and **Legit-Lab**
-- Ways to share what I learn through guides, write-ups and tutoring
+I'm actively looking for opportunities where I can contribute, learn from experienced people and build useful security tools:
+
+- 🛰️ Open-source work in embedded security, AI for cybersecurity and educational tooling
+- 🚩 CTFs and training platforms to contribute to
+- 💬 Feedback and contributors for **CyberAI Command Center** and **Legit-Lab**
+- ✍️ Ways to share what I learn through guides, write-ups and tutoring
+
+If you find my work useful, consider giving a ⭐ to the repositories you like. Feedback, suggestions and contributions are welcome.
+
+🔐 Learn Security • 🧪 Build Tools • 🔍 Analyze Threats • 🚀 Create Projects
 
 ---
 
 ## Get in touch
+
+If you'd like to collaborate, discuss an opportunity, or just connect, feel free to reach out.
 
 <div align="center">
 
