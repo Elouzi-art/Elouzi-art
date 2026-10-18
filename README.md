@@ -238,7 +238,7 @@ Then open [http://localhost:5000](http://localhost:5000). No API key is needed f
 ## 💻 How I Spend My Time
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Elouzi-art/assets/main/learning-pipeline.svg" alt="Learning pipeline"/>
+  <img src="https://raw.githubusercontent.com/Elouzi-art/assets/main/spent-my-time.svg" alt="Spent my time"/>
 </div>
 
 ---
@@ -368,17 +368,13 @@ I'm actively looking for opportunities in **embedded security**, **AI for cybers
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Elouzi-art/assets/main/footer-expertise.svg" alt="Areas of expertise"/>
+  <img src="https://raw.githubusercontent.com/Elouzi-art/assets/main/areas-of-expertise.svg" alt="Areas of expertise"/>
 </div>
 
 ---
 
 <a name="contact"></a>
 <div align="center">
-
-### Thanks for visiting my profile!
-
-**If you like my work, consider giving a ⭐ to the repositories you find useful.**
 
 <img src="https://komarev.com/ghpvc/?username=Elouzi-art&label=Profile%20Views&color=2F81F7&style=for-the-badge">
 
