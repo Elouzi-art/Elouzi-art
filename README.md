@@ -9,6 +9,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Elouzi-art/assets/main/specialization.svg" alt="Specialization"/>
+</div>
+
 <p align="center">
   <a href="#featured"><img src="https://img.shields.io/badge/Featured-2F81F7?style=for-the-badge&logo=openai&logoColor=white" alt="Featured project"/></a>
   <a href="#legit-lab"><img src="https://img.shields.io/badge/Legit--Lab-2F81F7?style=for-the-badge&logo=docker&logoColor=white" alt="Legit-Lab"/></a>
@@ -27,6 +31,10 @@
 **Specialization in Malware Analysis & Reverse Engineering**
 
 **Self-taught (WWW)**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Elouzi-art/assets/main/profile-header.svg" alt="Profile header"/>
+</p>
 
 ---
 
@@ -227,10 +235,20 @@ Then open [http://localhost:5000](http://localhost:5000). No API key is needed f
 
 ---
 
+## 💻 How I Spend My Time
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Elouzi-art/assets/main/learning-pipeline.svg" alt="Learning pipeline"/>
+</div>
+
+---
+
 <a name="training"></a>
 <div align="center">
 
 ## 📚 Training & Learning Path
+
+<img src="https://raw.githubusercontent.com/Elouzi-art/assets/main/training-banner.svg" alt="Training banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&lines=3+Training+Tracks+%7C+Hands-on+Labs;Offensive+%E2%80%A2+Defensive+%E2%80%A2+DevSecOps;Always+learning.+Always+building." alt="Typing animation"/>
 
@@ -317,6 +335,11 @@ Then open [http://localhost:5000](http://localhost:5000). No API key is needed f
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Elouzi-art/assets/main/support-banner.svg" alt="Open to collaboration"/>
+</div>
+
+---
 # ⭐ Support
 
 **If you find my repositories useful for learning security, consider giving them a ⭐.**
@@ -341,6 +364,12 @@ I'm actively looking for opportunities in **embedded security**, **AI for cybers
 - ✍️ Ways to share what I learn through guides, write-ups and tutoring
 
 **If you'd like to collaborate, discuss an opportunity, or just connect, feel free to reach out.**
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Elouzi-art/assets/main/footer-expertise.svg" alt="Areas of expertise"/>
+</div>
 
 ---
 
